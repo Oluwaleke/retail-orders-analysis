@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,region,product,category,quantity,unit_price,total_price
+4174,2021-01-01,308,East,Phone,Technology,5,634.01,3170.05
+4507,2021-01-02,204,East,Laptop,Furniture,4,990.41,3961.64
+1860,2021-01-03,318,East,Chair,Technology,2,332.52,665.04
+2294,2021-01-04,232,West,Laptop,Technology,5,359.77,1798.85
+2130,2021-01-05,317,South,Printer,Technology,2,106.57,213.14
+2095,2021-01-06,264,Central,Chair,Furniture,4,459.51,1838.04
+4772,2021-01-07,345,Central,Laptop,Office Supplies,3,283.22,849.66
+4092,2021-01-08,376,West,Monitor,Technology,2,363.09,726.18
+2638,2021-01-09,210,South,Printer,Office Supplies,1,839.53,839.53
+3169,2021-01-10,284,Central,Printer,Technology,1,937.42,937.42
+1466,2021-01-11,225,East,Printer,Office Supplies,5,210.16,1050.8
+2238,2021-01-12,262,Central,Monitor,Furniture,4,391.33,1565.32
+1330,2021-01-13,285,East,Monitor,Furniture,5,930.77,4653.85
+2482,2021-01-14,258,West,Desk,Technology,5,89.95,449.75
+3135,2021-01-15,226,East,Tablet,Office Supplies,5,119.59,597.95
+4444,2021-01-16,376,Central,Phone,Furniture,1,187.91,187.91
+4171,2021-01-17,360,Central,Laptop,Technology,1,607.36,607.36
+3919,2021-01-18,297,Central,Desk,Technology,5,175.96,879.8
+4735,2021-01-19,304,West,Laptop,Furniture,1,969.03,969.03
+1130,2021-01-20,298,West,Phone,Furniture,4,463.31,1853.24
+2685,2021-01-21,328,South,Tablet,Technology,5,516.47,2582.35
+4380,2021-01-22,348,Central,Monitor,Office Supplies,1,269.26,269.26
+1769,2021-01-23,254,East,Tablet,Office Supplies,2,486.83,973.66
+3391,2021-01-24,205,West,Monitor,Office Supplies,5,672.06,3360.3
+2515,2021-01-25,396,Central,Phone,Technology,5,758.64,3793.2
+4485,2021-01-26,294,Central,Tablet,Furniture,4,761.25,3045.0
+3853,2021-01-27,332,West,Desk,Technology,3,590.55,1771.65
+3433,2021-01-28,301,South,Chair,Furniture,3,907.23,2721.69
+2215,2021-01-29,202,West,Desk,Office Supplies,4,822.89,3291.56
+1955,2021-01-30,380,West,Laptop,Office Supplies,4,764.34,3057.36
+3324,2021-01-31,222,East,Desk,Furniture,4,83.94,335.76
+2184,2021-02-01,252,East,Phone,Furniture,3,36.67,110.01
+1459,2021-02-02,364,South,Printer,Technology,4,236.07,944.28
+4385,2021-02-03,282,Central,Laptop,Office Supplies,1,673.62,673.62
+1021,2021-02-04,344,West,Tablet,Technology,5,428.86,2144.3
+3300,2021-02-05,284,South,Laptop,Technology,5,420.33,2101.65
+1747,2021-02-06,277,East,Chair,Technology,2,888.05,1776.1
+3904,2021-02-07,309,West,Monitor,Office Supplies,2,898.7,1797.4
+4632,2021-02-08,200,Central,Tablet,Technology,5,911.9,4559.5
+1474,2021-02-09,250,East,Laptop,Technology,1,334.46,334.46
+2082,2021-02-10,372,East,Tablet,Technology,3,700.32,2100.96
+3558,2021-02-11,203,East,Tablet,Technology,3,293.48,880.44
+4753,2021-02-12,389,South,Tablet,Technology,1,214.89,214.89
+3047,2021-02-13,392,Central,Monitor,Technology,3,209.09,627.27
+4547,2021-02-14,312,West,Phone,Office Supplies,4,361.84,1447.36
+3747,2021-02-15,231,South,Desk,Technology,5,447.06,2235.3
+1975,2021-02-16,233,South,Tablet,Furniture,5,836.02,4180.1
+2806,2021-02-17,291,South,Printer,Technology,1,146.29,146.29
+1189,2021-02-18,294,East,Phone,Technology,3,742.88,2228.64
+4005,2021-02-19,271,Central,Chair,Office Supplies,2,545.51,1091.02
+3734,2021-02-20,238,South,Monitor,Office Supplies,2,309.31,618.62
+4005,2021-02-21,353,West,Laptop,Furniture,3,508.03,1524.09
+1562,2021-02-22,361,Central,Monitor,Furniture,2,320.94,641.88
+2899,2021-02-23,381,West,Laptop,Office Supplies,1,608.2,608.2
+4638,2021-02-24,317,Central,Monitor,Office Supplies,1,450.83,450.83
+2267,2021-02-25,202,West,Laptop,Technology,3,189.47,568.41
+3879,2021-02-26,322,East,Tablet,Office Supplies,2,143.09,286.18
+2528,2021-02-27,249,South,Desk,Furniture,1,560.29,560.29
+4202,2021-02-28,211,West,Laptop,Technology,1,905.34,905.34
+4556,2021-03-01,392,Central,Laptop,Furniture,4,363.64,1454.56
+4890,2021-03-02,253,South,Printer,Technology,4,741.01,2964.04
+1646,2021-03-03,332,South,Laptop,Office Supplies,1,668.9,668.9
+3068,2021-03-04,256,Central,Printer,Furniture,3,933.61,2800.83
+3888,2021-03-05,344,West,Chair,Technology,5,826.35,4131.75
+3214,2021-03-06,311,East,Tablet,Technology,5,579.61,2898.05
+2297,2021-03-07,246,East,Printer,Office Supplies,1,667.32,667.32
+3435,2021-03-08,350,West,Desk,Office Supplies,1,901.43,901.43
+1600,2021-03-09,284,South,Phone,Office Supplies,1,417.53,417.53
+3363,2021-03-10,341,South,Tablet,Furniture,3,346.99,1040.97
+3061,2021-03-11,265,South,Printer,Technology,4,40.49,161.96
+1241,2021-03-12,274,South,Tablet,Office Supplies,1,831.75,831.75
+3041,2021-03-13,378,West,Tablet,Furniture,1,806.95,806.95
+3824,2021-03-14,302,South,Tablet,Furniture,2,131.32,262.64
+4417,2021-03-15,365,Central,Chair,Furniture,3,589.55,1768.65
+3612,2021-03-16,391,South,Desk,Office Supplies,1,480.06,480.06
+3945,2021-03-17,237,East,Monitor,Office Supplies,2,145.15,290.3
+2363,2021-03-18,249,South,Monitor,Technology,5,981.15,4905.75
+3139,2021-03-19,297,West,Printer,Technology,1,238.26,238.26
+2390,2021-03-20,281,East,Tablet,Office Supplies,1,95.22,95.22
+4003,2021-03-21,229,West,Printer,Furniture,2,607.0,1214.0
+2478,2021-03-22,278,West,Chair,Furniture,3,746.7,2240.1
+4499,2021-03-23,290,East,Chair,Furniture,1,61.47,61.47
+3556,2021-03-24,378,West,Laptop,Technology,5,668.96,3344.8
+1775,2021-03-25,390,West,Chair,Furniture,1,546.32,546.32
+1034,2021-03-26,251,South,Laptop,Technology,5,130.17,650.85
+3253,2021-03-27,365,Central,Desk,Technology,4,197.35,789.4
+4152,2021-03-28,278,West,Printer,Furniture,4,580.94,2323.76
+2955,2021-03-29,229,West,Phone,Furniture,5,317.47,1587.35
+2585,2021-03-30,305,West,Desk,Office Supplies,3,940.17,2820.51
+4943,2021-03-31,250,South,Chair,Office Supplies,1,824.18,824.18
+4459,2021-04-01,280,Central,Desk,Furniture,1,984.06,984.06
+4073,2021-04-02,332,East,Desk,Technology,4,281.88,1127.52
+2021,2021-04-03,228,South,Desk,Technology,5,970.63,4853.15
+4461,2021-04-04,331,South,Chair,Technology,1,448.3,448.3
+3613,2021-04-05,337,Central,Phone,Technology,1,367.09,367.09
+2129,2021-04-06,383,Central,Tablet,Technology,3,78.84,236.52
+4843,2021-04-07,344,South,Desk,Office Supplies,2,81.18,162.36
+4893,2021-04-08,273,East,Laptop,Furniture,4,701.25,2805.0
+2500,2021-04-09,216,South,Chair,Office Supplies,4,474.19,1896.76
+1702,2021-04-10,283,Central,Desk,Technology,2,249.73,499.46
+3449,2021-04-11,268,East,Phone,Technology,1,625.55,625.55
+3777,2021-04-12,233,Central,Tablet,Technology,3,275.27,825.81
+2579,2021-04-13,205,East,Chair,Technology,3,590.3,1770.9
+1161,2021-04-14,252,West,Monitor,Furniture,4,378.43,1513.72
+1201,2021-04-15,393,Central,Tablet,Technology,3,828.85,2486.55
+2981,2021-04-16,325,Central,Laptop,Furniture,2,826.08,1652.16
+1995,2021-04-17,242,South,Desk,Technology,1,493.03,493.03
+3317,2021-04-18,314,Central,Phone,Furniture,2,370.29,740.58
+4934,2021-04-19,310,Central,Monitor,Office Supplies,5,381.68,1908.4
+1815,2021-04-20,350,West,Phone,Technology,4,811.54,3246.16
+4342,2021-04-21,382,Central,Monitor,Furniture,3,348.33,1044.99
+1455,2021-04-22,279,West,Chair,Office Supplies,5,232.79,1163.95
+4533,2021-04-23,294,West,Monitor,Technology,3,112.15,336.45
+4798,2021-04-24,317,West,Laptop,Technology,1,482.69,482.69
+2275,2021-04-25,343,West,Laptop,Technology,1,497.67,497.67
+2016,2021-04-26,207,East,Printer,Furniture,1,845.68,845.68
+4773,2021-04-27,331,South,Laptop,Furniture,3,244.6,733.8
+3343,2021-04-28,303,East,Tablet,Office Supplies,5,399.56,1997.8
+4796,2021-04-29,331,Central,Monitor,Furniture,1,814.15,814.15
+3767,2021-04-30,383,East,Laptop,Furniture,5,828.91,4144.55
+4820,2021-05-01,224,East,Chair,Technology,3,403.07,1209.21
+1337,2021-05-02,394,Central,Phone,Technology,5,475.35,2376.75
+1878,2021-05-03,295,Central,Phone,Technology,3,324.19,972.57
+2076,2021-05-04,394,Central,Printer,Technology,3,934.58,2803.74
+1791,2021-05-05,354,East,Phone,Technology,4,145.08,580.32
+4993,2021-05-06,292,East,Monitor,Technology,3,935.74,2807.22
+3264,2021-05-07,359,Central,Printer,Technology,3,693.35,2080.05
+1763,2021-05-08,377,South,Monitor,Office Supplies,2,545.62,1091.24
+3235,2021-05-09,260,South,Chair,Office Supplies,1,61.68,61.68
+1379,2021-05-10,321,West,Printer,Office Supplies,4,491.33,1965.32
+1492,2021-05-11,250,Central,Desk,Office Supplies,4,425.52,1702.08
+4112,2021-05-12,346,West,Tablet,Technology,4,186.38,745.52
+2180,2021-05-13,220,South,Tablet,Office Supplies,2,666.72,1333.44
+3062,2021-05-14,204,West,Monitor,Technology,3,972.02,2916.06
+4884,2021-05-15,291,Central,Phone,Office Supplies,1,575.32,575.32
+1064,2021-05-16,369,Central,Desk,Furniture,5,723.31,3616.55
+4928,2021-05-17,260,Central,Printer,Office Supplies,3,96.4,289.2
+4910,2021-05-18,221,East,Desk,Office Supplies,2,435.14,870.28
+3568,2021-05-19,348,West,Desk,Technology,3,142.87,428.61
+2367,2021-05-20,269,South,Phone,Office Supplies,3,624.41,1873.23
+2152,2021-05-21,200,South,Printer,Furniture,2,940.33,1880.66
+3027,2021-05-22,332,South,Chair,Technology,4,671.92,2687.68
+3695,2021-05-23,211,East,Phone,Technology,4,104.5,418.0
+2495,2021-05-24,289,East,Desk,Office Supplies,1,374.03,374.03
+4134,2021-05-25,245,Central,Desk,Technology,1,564.14,564.14
+2162,2021-05-26,233,South,Chair,Technology,4,421.11,1684.44
+2522,2021-05-27,376,East,Desk,Technology,5,838.63,4193.15
+3640,2021-05-28,277,Central,Desk,Technology,3,820.23,2460.69
+1391,2021-05-29,244,South,Desk,Technology,5,623.48,3117.4
+2698,2021-05-30,354,West,Tablet,Technology,3,392.25,1176.75
+1418,2021-05-31,272,Central,Phone,Furniture,4,277.68,1110.72
+3336,2021-06-01,225,East,Laptop,Office Supplies,1,132.7,132.7
+1378,2021-06-02,246,East,Phone,Furniture,1,374.25,374.25
+2796,2021-06-03,320,Central,Chair,Technology,5,430.78,2153.9
+4561,2021-06-04,255,Central,Desk,Technology,1,685.55,685.55
+3278,2021-06-05,293,East,Phone,Office Supplies,4,668.42,2673.68
+4065,2021-06-06,306,West,Tablet,Furniture,5,98.0,490.0
+3088,2021-06-07,262,South,Chair,Office Supplies,3,413.4,1240.2
+4099,2021-06-08,247,West,Monitor,Furniture,1,206.33,206.33
+3182,2021-06-09,260,Central,Phone,Technology,2,182.11,364.22
+1200,2021-06-10,280,West,Monitor,Office Supplies,1,832.48,832.48
+2863,2021-06-11,225,East,Desk,Office Supplies,3,70.66,211.98
+1779,2021-06-12,235,Central,Tablet,Technology,5,436.61,2183.05
+3977,2021-06-13,200,South,Tablet,Office Supplies,3,193.16,579.48
+4104,2021-06-14,207,East,Phone,Furniture,2,882.95,1765.9
+4119,2021-06-15,312,East,Chair,Furniture,4,570.33,2281.32
+1502,2021-06-16,298,South,Chair,Furniture,1,254.44,254.44
+3454,2021-06-17,379,South,Tablet,Furniture,5,517.35,2586.75
+4645,2021-06-18,246,West,Chair,Technology,4,739.54,2958.16
+2751,2021-06-19,326,Central,Tablet,Office Supplies,3,959.37,2878.11
+1804,2021-06-20,255,South,Phone,Furniture,5,243.83,1219.15
+3146,2021-06-21,213,South,Laptop,Technology,4,889.6,3558.4
+3731,2021-06-22,227,Central,Tablet,Office Supplies,5,936.27,4681.35
+2895,2021-06-23,277,South,Monitor,Office Supplies,2,918.93,1837.86
+3773,2021-06-24,329,South,Chair,Technology,2,646.35,1292.7
+2570,2021-06-25,308,West,Tablet,Technology,1,640.93,640.93
+1960,2021-06-26,353,East,Tablet,Furniture,1,421.11,421.11
+4810,2021-06-27,213,East,Phone,Office Supplies,2,759.83,1519.66
+3660,2021-06-28,386,East,Chair,Office Supplies,5,545.36,2726.8
+2485,2021-06-29,255,East,Laptop,Technology,2,687.11,1374.22
+3690,2021-06-30,314,South,Phone,Office Supplies,1,445.6,445.6
+4840,2021-07-01,206,Central,Laptop,Furniture,2,739.55,1479.1
+2028,2021-07-02,202,Central,Phone,Office Supplies,2,829.74,1659.48
+4289,2021-07-03,310,West,Chair,Technology,5,172.04,860.2
+1502,2021-07-04,350,West,Printer,Technology,4,837.94,3351.76
+3814,2021-07-05,306,South,Chair,Furniture,1,554.09,554.09
+1397,2021-07-06,217,Central,Chair,Furniture,5,849.33,4246.65
+1870,2021-07-07,237,Central,Laptop,Office Supplies,2,448.36,896.72
+3842,2021-07-08,314,East,Laptop,Office Supplies,2,397.67,795.34
+1392,2021-07-09,214,South,Chair,Technology,4,917.61,3670.44
+1206,2021-07-10,391,South,Chair,Furniture,1,273.63,273.63
+2038,2021-07-11,318,East,Chair,Furniture,1,848.89,848.89
+2881,2021-07-12,227,South,Laptop,Furniture,3,499.5,1498.5
+4625,2021-07-13,238,South,Chair,Office Supplies,1,528.67,528.67
+3939,2021-07-14,384,West,Chair,Furniture,4,329.21,1316.84
+2484,2021-07-15,216,Central,Desk,Technology,3,585.85,1757.55
+4762,2021-07-16,285,South,Printer,Technology,3,345.45,1036.35
+4646,2021-07-17,325,West,Monitor,Office Supplies,2,68.09,136.18
+1863,2021-07-18,243,Central,Printer,Office Supplies,2,293.84,587.68
+3790,2021-07-19,224,East,Desk,Furniture,1,36.19,36.19
+4312,2021-07-20,344,West,Monitor,Office Supplies,3,979.0,2937.0
+1563,2021-07-21,212,West,Phone,Technology,2,966.77,1933.54
+2020,2021-07-22,224,Central,Chair,Furniture,4,413.3,1653.2
+1095,2021-07-23,267,East,Desk,Technology,2,736.52,1473.04
+2923,2021-07-24,337,West,Phone,Furniture,2,365.43,730.86
+2757,2021-07-25,266,South,Chair,Office Supplies,3,680.96,2042.88
+3532,2021-07-26,308,South,Laptop,Furniture,3,811.27,2433.81
+4478,2021-07-27,345,South,Tablet,Furniture,5,948.35,4741.75
+3278,2021-07-28,310,East,Desk,Technology,4,418.21,1672.84
+3796,2021-07-29,310,West,Laptop,Technology,3,789.8,2369.4
+2678,2021-07-30,233,South,Desk,Furniture,1,287.95,287.95
+4242,2021-07-31,310,East,Desk,Office Supplies,4,990.62,3962.48
+1540,2021-08-01,207,South,Laptop,Office Supplies,4,55.0,220.0
+2059,2021-08-02,367,Central,Monitor,Technology,3,615.42,1846.26
+3572,2021-08-03,312,West,Printer,Office Supplies,4,669.72,2678.88
+2183,2021-08-04,282,West,Chair,Technology,3,697.4,2092.2
+4910,2021-08-05,241,East,Desk,Office Supplies,2,146.78,293.56
+2722,2021-08-06,368,East,Chair,Furniture,5,940.37,4701.85
+4314,2021-08-07,300,West,Tablet,Technology,2,205.75,411.5
+4157,2021-08-08,205,South,Laptop,Technology,3,634.07,1902.21
+2819,2021-08-09,379,South,Chair,Furniture,3,246.0,738.0
+3625,2021-08-10,225,Central,Laptop,Technology,2,328.0,656.0
+3729,2021-08-11,263,South,Chair,Office Supplies,1,560.06,560.06
+3604,2021-08-12,386,East,Printer,Office Supplies,1,434.68,434.68
+2597,2021-08-13,383,East,Printer,Technology,1,185.42,185.42
+4060,2021-08-14,258,South,Printer,Office Supplies,3,195.81,587.43
+3693,2021-08-15,308,East,Printer,Technology,4,435.6,1742.4
+1795,2021-08-16,397,West,Printer,Furniture,3,764.56,2293.68
+2051,2021-08-17,320,West,Printer,Technology,4,901.03,3604.12
+2643,2021-08-18,232,South,Laptop,Furniture,2,111.6,223.2
+4627,2021-08-19,380,West,Desk,Office Supplies,5,411.31,2056.55
+2363,2021-08-20,349,West,Chair,Furniture,4,127.24,508.96
+4869,2021-08-21,220,Central,Printer,Office Supplies,1,46.09,46.09
+2981,2021-08-22,397,Central,Laptop,Technology,3,671.87,2015.61
+2354,2021-08-23,269,West,Laptop,Office Supplies,2,614.38,1228.76
+2663,2021-08-24,311,South,Laptop,Technology,1,188.13,188.13
+2529,2021-08-25,203,Central,Desk,Technology,2,256.8,513.6
+3038,2021-08-26,293,East,Chair,Furniture,5,53.0,265.0
+4419,2021-08-27,274,East,Desk,Furniture,3,839.9,2519.7
+2496,2021-08-28,389,East,Monitor,Furniture,3,975.45,2926.35
+4302,2021-08-29,261,South,Phone,Furniture,5,161.4,807.0
+3237,2021-08-30,293,West,Laptop,Office Supplies,3,254.53,763.59
+4296,2021-08-31,294,East,Monitor,Office Supplies,4,872.36,3489.44
+2408,2021-09-01,351,South,Tablet,Office Supplies,2,928.67,1857.34
+2400,2021-09-02,254,Central,Printer,Technology,1,437.04,437.04
+2306,2021-09-03,336,West,Phone,Office Supplies,5,79.1,395.5
+3680,2021-09-04,330,Central,Printer,Office Supplies,4,68.21,272.84
+3675,2021-09-05,230,South,Desk,Office Supplies,1,586.73,586.73
+1972,2021-09-06,239,East,Phone,Furniture,1,411.11,411.11
+2768,2021-09-07,235,East,Chair,Office Supplies,5,57.79,288.95
+2282,2021-09-08,351,South,Monitor,Technology,4,595.75,2383.0
+4430,2021-09-09,205,East,Chair,Furniture,1,40.96,40.96
+1709,2021-09-10,265,West,Desk,Technology,1,793.75,793.75
+2479,2021-09-11,274,South,Printer,Office Supplies,4,327.24,1308.96
+2434,2021-09-12,203,Central,Phone,Furniture,3,69.05,207.15
+1648,2021-09-13,278,South,Chair,Technology,1,600.7,600.7
+1317,2021-09-14,333,West,Chair,Office Supplies,2,415.75,831.5
+4748,2021-09-15,317,West,Printer,Technology,4,974.59,3898.36
+4296,2021-09-16,312,South,Phone,Technology,1,557.87,557.87
+4890,2021-09-17,293,South,Monitor,Technology,5,296.98,1484.9
+2257,2021-09-18,378,East,Printer,Office Supplies,2,718.16,1436.32
+1683,2021-09-19,261,West,Chair,Office Supplies,1,293.35,293.35
+1663,2021-09-20,384,South,Monitor,Technology,2,907.12,1814.24
+2998,2021-09-21,393,South,Monitor,Furniture,2,393.48,786.96
+4898,2021-09-22,278,West,Printer,Furniture,3,563.37,1690.11
+4445,2021-09-23,335,South,Chair,Office Supplies,2,79.06,158.12
+4743,2021-09-24,225,East,Desk,Office Supplies,3,443.34,1330.02
+2631,2021-09-25,378,West,Chair,Office Supplies,4,837.39,3349.56
+2495,2021-09-26,372,East,Laptop,Office Supplies,3,811.48,2434.44
+4304,2021-09-27,243,East,Phone,Office Supplies,5,247.59,1237.95
+4763,2021-09-28,332,East,Tablet,Furniture,1,249.3,249.3
+2136,2021-09-29,269,East,Desk,Office Supplies,4,822.79,3291.16
+2853,2021-09-30,353,West,Monitor,Technology,4,932.49,3729.96
+2520,2021-10-01,317,East,Desk,Technology,5,122.5,612.5
+3489,2021-10-02,267,East,Phone,Furniture,3,466.56,1399.68
+1563,2021-10-03,218,South,Monitor,Technology,1,357.33,357.33
+2291,2021-10-04,219,West,Phone,Furniture,3,874.57,2623.71
+4581,2021-10-05,312,West,Monitor,Furniture,2,111.02,222.04
+4878,2021-10-06,339,Central,Desk,Technology,3,234.79,704.37
+4457,2021-10-07,246,West,Monitor,Office Supplies,4,759.89,3039.56
+4458,2021-10-08,200,West,Monitor,Technology,1,79.76,79.76
+4184,2021-10-09,289,Central,Laptop,Technology,3,507.76,1523.28
+2636,2021-10-10,341,West,Chair,Furniture,1,458.84,458.84
+4696,2021-10-11,263,West,Chair,Technology,1,354.37,354.37
+3999,2021-10-12,237,West,Tablet,Furniture,2,412.74,825.48
+4152,2021-10-13,236,West,Tablet,Office Supplies,2,544.04,1088.08
+1698,2021-10-14,325,Central,Laptop,Office Supplies,4,186.53,746.12
+3160,2021-10-15,338,West,Tablet,Office Supplies,5,584.84,2924.2
+1001,2021-10-16,299,West,Phone,Technology,1,811.27,811.27
+1641,2021-10-17,276,Central,Desk,Furniture,5,767.36,3836.8
+3267,2021-10-18,202,South,Printer,Office Supplies,4,179.28,717.12
+2589,2021-10-19,360,East,Phone,Furniture,1,174.77,174.77
+1854,2021-10-20,333,South,Printer,Furniture,1,290.13,290.13
+2759,2021-10-21,377,Central,Printer,Office Supplies,5,380.24,1901.2
+4296,2021-10-22,209,East,Laptop,Office Supplies,3,426.2,1278.6
+3432,2021-10-23,204,Central,Phone,Furniture,2,689.31,1378.62
+4474,2021-10-24,350,Central,Laptop,Office Supplies,3,84.98,254.94
+2661,2021-10-25,337,West,Monitor,Furniture,5,63.63,318.15
+2153,2021-10-26,371,East,Printer,Furniture,2,410.15,820.3
+2076,2021-10-27,329,West,Desk,Office Supplies,3,706.25,2118.75
+2707,2021-10-28,212,East,Tablet,Technology,2,217.63,435.26
+3777,2021-10-29,367,Central,Desk,Office Supplies,1,652.26,652.26
+2695,2021-10-30,329,Central,Tablet,Technology,3,282.03,846.09
+2733,2021-10-31,283,South,Printer,Furniture,2,889.5,1779.0
+2439,2021-11-01,264,East,Printer,Furniture,2,898.82,1797.64
+3294,2021-11-02,262,West,Printer,Technology,2,318.37,636.74
+1835,2021-11-03,300,South,Laptop,Furniture,3,253.09,759.27
+4510,2021-11-04,272,South,Phone,Technology,4,428.96,1715.84
+1202,2021-11-05,216,South,Tablet,Technology,3,263.32,789.96
+4255,2021-11-06,208,West,Phone,Furniture,5,682.21,3411.05
+1122,2021-11-07,342,South,Laptop,Technology,3,831.28,2493.84
+1400,2021-11-08,351,West,Laptop,Office Supplies,2,682.9,1365.8
+1766,2021-11-09,237,South,Chair,Office Supplies,1,829.62,829.62
+1293,2021-11-10,362,West,Desk,Furniture,3,415.08,1245.24
+3327,2021-11-11,293,Central,Desk,Furniture,3,181.63,544.89
+4908,2021-11-12,294,Central,Monitor,Technology,2,745.81,1491.62
+3931,2021-11-13,248,Central,Laptop,Technology,1,379.66,379.66
+4681,2021-11-14,268,Central,Tablet,Technology,1,681.13,681.13
+1197,2021-11-15,261,Central,Chair,Technology,5,292.52,1462.6
+4029,2021-11-16,387,South,Chair,Office Supplies,3,108.79,326.37
+2930,2021-11-17,377,South,Phone,Office Supplies,1,992.8,992.8
+4582,2021-11-18,277,South,Desk,Furniture,1,181.52,181.52
+3799,2021-11-19,316,West,Laptop,Technology,4,988.77,3955.08
+3191,2021-11-20,319,West,Monitor,Technology,4,977.96,3911.84
+1608,2021-11-21,336,West,Laptop,Furniture,1,800.0,800.0
+4272,2021-11-22,361,West,Phone,Technology,5,669.64,3348.2
+2147,2021-11-23,275,Central,Printer,Technology,1,590.47,590.47
+1186,2021-11-24,234,Central,Laptop,Technology,2,870.12,1740.24
+4397,2021-11-25,200,Central,Phone,Technology,3,310.76,932.28
+3511,2021-11-26,239,East,Printer,Technology,5,483.65,2418.25
+4420,2021-11-27,263,South,Printer,Furniture,2,630.81,1261.62
+2794,2021-11-28,349,West,Monitor,Technology,5,428.85,2144.25
+1659,2021-11-29,259,West,Tablet,Furniture,2,444.66,889.32
+3811,2021-11-30,263,Central,Desk,Technology,3,350.38,1051.14
+4002,2021-12-01,292,West,Laptop,Office Supplies,3,577.3,1731.9
+2955,2021-12-02,271,West,Printer,Office Supplies,4,855.06,3420.24
+3450,2021-12-03,210,South,Laptop,Office Supplies,2,225.48,450.96
+2369,2021-12-04,304,Central,Tablet,Office Supplies,4,936.4,3745.6
+2986,2021-12-05,213,South,Desk,Furniture,2,698.42,1396.84
+2534,2021-12-06,259,East,Tablet,Furniture,4,828.58,3314.32
+1146,2021-12-07,229,East,Desk,Technology,3,569.5,1708.5
+4219,2021-12-08,234,East,Chair,Office Supplies,5,786.13,3930.65
+3911,2021-12-09,364,Central,Desk,Furniture,4,45.71,182.84
+2734,2021-12-10,204,West,Monitor,Technology,2,823.83,1647.66
+2843,2021-12-11,282,Central,Tablet,Technology,2,68.93,137.86
+1488,2021-12-12,322,Central,Printer,Furniture,3,893.22,2679.66
+3976,2021-12-13,277,West,Chair,Office Supplies,2,992.2,1984.4
+2959,2021-12-14,353,South,Monitor,Technology,1,315.25,315.25
+2663,2021-12-15,261,East,Laptop,Office Supplies,5,234.01,1170.05
+3598,2021-12-16,331,South,Tablet,Office Supplies,4,772.4,3089.6
+3385,2021-12-17,288,East,Phone,Office Supplies,5,275.44,1377.2
+3919,2021-12-18,241,Central,Phone,Technology,3,869.6,2608.8
+1640,2021-12-19,288,East,Printer,Office Supplies,4,129.76,519.04
+2802,2021-12-20,345,Central,Desk,Technology,4,152.18,608.72
+3520,2021-12-21,239,South,Printer,Office Supplies,1,979.78,979.78
+2969,2021-12-22,271,Central,Phone,Technology,3,683.62,2050.86
+3198,2021-12-23,238,South,Laptop,Office Supplies,2,851.48,1702.96
+2438,2021-12-24,303,West,Chair,Furniture,1,344.6,344.6
+4369,2021-12-25,213,West,Chair,Office Supplies,1,686.19,686.19
+2634,2021-12-26,231,West,Tablet,Office Supplies,5,606.41,3032.05
+1262,2021-12-27,378,Central,Chair,Technology,5,615.06,3075.3
+2787,2021-12-28,324,West,Tablet,Technology,5,692.06,3460.3
+3191,2021-12-29,365,East,Tablet,Office Supplies,1,588.1,588.1
+3393,2021-12-30,296,South,Tablet,Furniture,2,446.19,892.38
+1623,2021-12-31,222,South,Phone,Furniture,4,297.65,1190.6
+2016,2022-01-01,262,East,Phone,Technology,5,775.52,3877.6
+4643,2022-01-02,342,Central,Desk,Furniture,2,249.48,498.96
+1880,2022-01-03,352,Central,Monitor,Office Supplies,3,701.58,2104.74
+3049,2022-01-04,344,South,Tablet,Technology,5,256.33,1281.65
+3944,2022-01-05,393,West,Tablet,Office Supplies,4,636.57,2546.28
+2327,2022-01-06,252,Central,Monitor,Technology,3,754.67,2264.01
+3301,2022-01-07,303,Central,Printer,Technology,3,242.15,726.45
+4723,2022-01-08,303,East,Tablet,Technology,4,88.15,352.6
+1452,2022-01-09,378,East,Desk,Technology,5,157.04,785.2
+4108,2022-01-10,238,West,Chair,Furniture,1,617.82,617.82
+2183,2022-01-11,378,Central,Chair,Office Supplies,4,853.96,3415.84
+4062,2022-01-12,397,Central,Laptop,Office Supplies,4,73.65,294.6
+3056,2022-01-13,333,East,Laptop,Office Supplies,4,742.13,2968.52
+4304,2022-01-14,266,Central,Chair,Technology,3,361.08,1083.24
+4170,2022-01-15,334,South,Chair,Furniture,2,494.17,988.34
+2682,2022-01-16,378,East,Phone,Office Supplies,1,930.99,930.99
+3863,2022-01-17,399,West,Desk,Furniture,5,352.01,1760.05
+3255,2022-01-18,241,East,Monitor,Technology,5,481.38,2406.9
+2154,2022-01-19,391,Central,Laptop,Office Supplies,2,43.27,86.54
+1403,2022-01-20,214,West,Phone,Furniture,4,109.15,436.6
+3199,2022-01-21,310,East,Phone,Technology,1,280.83,280.83
+3101,2022-01-22,356,South,Monitor,Furniture,5,57.02,285.1
+4191,2022-01-23,232,South,Phone,Office Supplies,5,642.43,3212.15
+2696,2022-01-24,354,East,Desk,Office Supplies,4,443.61,1774.44
+4991,2022-01-25,363,South,Chair,Technology,2,561.7,1123.4
+1627,2022-01-26,356,South,Tablet,Technology,1,199.41,199.41
+1586,2022-01-27,237,South,Monitor,Technology,2,317.05,634.1
+2648,2022-01-28,384,West,Chair,Furniture,2,673.91,1347.82
+2443,2022-01-29,296,South,Chair,Furniture,1,966.34,966.34
+2445,2022-01-30,354,South,Printer,Furniture,1,78.9,78.9
+1103,2022-01-31,382,South,Monitor,Technology,5,893.67,4468.35
+4923,2022-02-01,232,West,Phone,Office Supplies,5,589.57,2947.85
+1253,2022-02-02,395,East,Tablet,Office Supplies,1,577.0,577.0
+4298,2022-02-03,285,Central,Monitor,Furniture,3,515.27,1545.81
+4183,2022-02-04,265,South,Phone,Furniture,5,97.31,486.55
+3557,2022-02-05,209,East,Chair,Office Supplies,3,117.18,351.54
+2496,2022-02-06,204,South,Tablet,Office Supplies,1,612.88,612.88
+1098,2022-02-07,322,West,Phone,Furniture,5,360.73,1803.65
+3200,2022-02-08,273,East,Desk,Furniture,2,919.75,1839.5
+2884,2022-02-09,296,West,Phone,Office Supplies,1,424.39,424.39
+3961,2022-02-10,317,South,Printer,Technology,4,168.98,675.92
+2919,2022-02-11,237,South,Chair,Furniture,3,723.28,2169.84
+1877,2022-02-12,340,West,Phone,Office Supplies,1,314.55,314.55
+1337,2022-02-13,358,Central,Laptop,Office Supplies,1,539.71,539.71
+4777,2022-02-14,246,West,Laptop,Office Supplies,5,706.9,3534.5
+3869,2022-02-15,308,South,Printer,Office Supplies,5,903.26,4516.3
+4234,2022-02-16,379,West,Desk,Technology,5,798.43,3992.15
+4791,2022-02-17,383,Central,Chair,Office Supplies,4,686.07,2744.28
+1956,2022-02-18,214,West,Monitor,Furniture,5,689.24,3446.2
+2704,2022-02-19,356,Central,Printer,Technology,1,947.55,947.55
+1160,2022-02-20,335,Central,Desk,Office Supplies,5,316.95,1584.75
+2603,2022-02-21,204,West,Monitor,Technology,2,31.08,62.16
+3848,2022-02-22,356,West,Laptop,Furniture,5,293.8,1469.0
+1397,2022-02-23,246,East,Laptop,Office Supplies,4,241.35,965.4
+2300,2022-02-24,267,South,Monitor,Furniture,2,671.98,1343.96
+1815,2022-02-25,275,Central,Printer,Office Supplies,1,644.7,644.7
+4987,2022-02-26,372,East,Laptop,Office Supplies,1,605.66,605.66
+2527,2022-02-27,329,West,Chair,Office Supplies,3,45.76,137.28
+2919,2022-02-28,354,South,Tablet,Office Supplies,2,736.91,1473.82
+2415,2022-03-01,294,East,Phone,Office Supplies,3,343.82,1031.46
+2158,2022-03-02,314,Central,Monitor,Technology,2,675.1,1350.2
+2218,2022-03-03,363,East,Monitor,Office Supplies,2,569.88,1139.76
+1400,2022-03-04,235,Central,Laptop,Office Supplies,4,362.45,1449.8
+1639,2022-03-05,225,West,Printer,Technology,3,160.54,481.62
+4104,2022-03-06,242,South,Chair,Technology,4,121.59,486.36
+3735,2022-03-07,226,South,Printer,Technology,2,836.57,1673.14
+1459,2022-03-08,268,South,Desk,Technology,1,920.85,920.85
+1954,2022-03-09,347,West,Desk,Technology,2,660.29,1320.58
+4954,2022-03-10,210,Central,Tablet,Technology,4,130.33,521.32
+1469,2022-03-11,273,West,Laptop,Office Supplies,3,419.97,1259.91
+4446,2022-03-12,303,South,Laptop,Office Supplies,3,737.07,2211.21
+2045,2022-03-13,237,West,Laptop,Furniture,4,786.43,3145.72
+3797,2022-03-14,333,West,Tablet,Office Supplies,3,144.67,434.01
+2693,2022-03-15,399,West,Desk,Office Supplies,5,30.03,150.15
+3085,2022-03-16,222,Central,Printer,Technology,1,720.77,720.77
+3277,2022-03-17,246,East,Tablet,Technology,1,375.9,375.9
+4436,2022-03-18,289,East,Tablet,Office Supplies,1,276.85,276.85
+1562,2022-03-19,245,West,Printer,Furniture,3,42.51,127.53
+3485,2022-03-20,306,East,Laptop,Technology,3,554.09,1662.27
+2799,2022-03-21,339,East,Chair,Office Supplies,2,855.62,1711.24
+4354,2022-03-22,340,West,Printer,Office Supplies,2,958.9,1917.8
+3074,2022-03-23,303,West,Desk,Furniture,1,578.77,578.77
+1225,2022-03-24,389,South,Monitor,Furniture,5,529.03,2645.15
+4348,2022-03-25,310,East,Monitor,Technology,2,112.5,225.0
+1797,2022-03-26,303,Central,Phone,Furniture,2,562.41,1124.82
+4680,2022-03-27,259,West,Phone,Office Supplies,3,398.58,1195.74
+3331,2022-03-28,370,South,Tablet,Office Supplies,5,618.92,3094.6
+3926,2022-03-29,299,Central,Monitor,Furniture,1,407.06,407.06
+1959,2022-03-30,267,East,Chair,Furniture,2,263.09,526.18
+2504,2022-03-31,332,South,Laptop,Furniture,5,122.12,610.6
+1452,2022-04-01,319,West,Desk,Furniture,5,335.47,1677.35
+4067,2022-04-02,236,Central,Phone,Technology,1,123.75,123.75
+4900,2022-04-03,271,West,Chair,Furniture,5,201.59,1007.95
+1815,2022-04-04,326,East,Desk,Technology,5,987.72,4938.6
+1658,2022-04-05,305,Central,Desk,Office Supplies,5,460.78,2303.9
+4587,2022-04-06,291,East,Laptop,Furniture,2,545.92,1091.84
+1546,2022-04-07,230,East,Tablet,Technology,1,877.41,877.41
+2215,2022-04-08,321,South,Monitor,Furniture,5,995.7,4978.5
+4120,2022-04-09,336,West,Laptop,Office Supplies,5,595.23,2976.15
+4583,2022-04-10,250,Central,Chair,Office Supplies,2,818.1,1636.2
+1016,2022-04-11,228,East,Tablet,Office Supplies,1,347.13,347.13
+4243,2022-04-12,239,East,Chair,Furniture,3,326.57,979.71
+2243,2022-04-13,240,Central,Tablet,Furniture,2,420.62,841.24
+3205,2022-04-14,210,East,Phone,Technology,1,682.33,682.33
+3524,2022-04-15,350,South,Chair,Office Supplies,5,691.73,3458.65
+2069,2022-04-16,200,South,Laptop,Furniture,1,335.78,335.78
+4444,2022-04-17,245,South,Tablet,Office Supplies,1,159.21,159.21
+3565,2022-04-18,300,South,Tablet,Office Supplies,1,643.42,643.42
+3146,2022-04-19,348,East,Desk,Technology,3,154.48,463.44
+4963,2022-04-20,289,Central,Desk,Technology,1,591.14,591.14
+2768,2022-04-21,309,Central,Printer,Technology,3,702.62,2107.86
+2060,2022-04-22,363,Central,Chair,Technology,5,709.59,3547.95
+3327,2022-04-23,381,Central,Desk,Office Supplies,3,760.87,2282.61
+4420,2022-04-24,256,West,Printer,Technology,5,876.67,4383.35
+3544,2022-04-25,200,Central,Phone,Technology,5,514.96,2574.8
+1301,2022-04-26,262,West,Phone,Technology,3,738.34,2215.02
+1180,2022-04-27,381,West,Desk,Technology,2,630.6,1261.2
+1606,2022-04-28,254,South,Chair,Office Supplies,4,211.04,844.16
+4170,2022-04-29,314,West,Tablet,Technology,1,54.92,54.92
+1699,2022-04-30,367,East,Monitor,Office Supplies,4,306.01,1224.04
+1992,2022-05-01,342,West,Chair,Furniture,1,459.74,459.74
+2139,2022-05-02,348,South,Laptop,Office Supplies,1,628.59,628.59
+1190,2022-05-03,374,West,Phone,Office Supplies,5,854.46,4272.3
+3300,2022-05-04,252,East,Desk,Technology,1,220.36,220.36
+1980,2022-05-05,336,East,Desk,Furniture,1,151.78,151.78
+3975,2022-05-06,379,East,Tablet,Furniture,3,964.58,2893.74
+3006,2022-05-07,256,South,Laptop,Furniture,4,134.8,539.2
+2184,2022-05-08,316,South,Tablet,Furniture,3,494.14,1482.42
+4327,2022-05-09,353,Central,Laptop,Office Supplies,1,598.0,598.0
+4394,2022-05-10,368,South,Monitor,Furniture,5,555.13,2775.65
+1127,2022-05-11,234,East,Phone,Office Supplies,3,113.45,340.35
+3065,2022-05-12,262,East,Desk,Office Supplies,3,85.32,255.96
+2816,2022-05-13,224,South,Desk,Office Supplies,2,132.32,264.64
+2758,2022-05-14,289,West,Monitor,Furniture,1,598.02,598.02
+3613,2022-05-15,274,South,Printer,Technology,5,558.01,2790.05
+1569,2022-05-16,237,South,Phone,Technology,3,256.73,770.19
+2346,2022-05-17,329,East,Tablet,Furniture,3,648.64,1945.92
+2895,2022-05-18,334,Central,Monitor,Technology,5,825.47,4127.35
+3733,2022-05-19,361,East,Tablet,Technology,1,70.33,70.33
+4863,2022-05-20,290,Central,Chair,Office Supplies,2,513.19,1026.38
+1625,2022-05-21,216,East,Desk,Office Supplies,3,698.63,2095.89
+4359,2022-05-22,327,South,Tablet,Furniture,2,274.74,549.48
+3901,2022-05-23,370,East,Laptop,Furniture,4,328.54,1314.16
+2686,2022-05-24,386,East,Tablet,Technology,1,625.23,625.23
+4009,2022-05-25,307,East,Chair,Office Supplies,4,901.0,3604.0
+4710,2022-05-26,378,South,Phone,Furniture,4,815.63,3262.52
+1154,2022-05-27,381,South,Desk,Furniture,4,595.64,2382.56
+3537,2022-05-28,351,South,Monitor,Furniture,1,738.32,738.32
+2409,2022-05-29,224,South,Chair,Furniture,1,383.88,383.88
+1784,2022-05-30,398,Central,Desk,Furniture,5,651.74,3258.7
+4175,2022-05-31,379,Central,Tablet,Furniture,2,482.2,964.4
+4464,2022-06-01,397,West,Phone,Technology,2,214.24,428.48
+4882,2022-06-02,287,South,Printer,Office Supplies,5,710.69,3553.45
+1245,2022-06-03,360,Central,Phone,Office Supplies,5,569.77,2848.85
+4247,2022-06-04,376,East,Printer,Furniture,4,377.86,1511.44
+4110,2022-06-05,228,South,Laptop,Office Supplies,5,914.0,4570.0
+2500,2022-06-06,262,West,Phone,Office Supplies,3,50.31,150.93
+2705,2022-06-07,349,West,Desk,Office Supplies,2,336.3,672.6
+3806,2022-06-08,353,West,Printer,Furniture,5,85.17,425.85
+1537,2022-06-09,355,East,Monitor,Furniture,3,773.53,2320.59
+2890,2022-06-10,313,Central,Desk,Office Supplies,3,711.04,2133.12
+2841,2022-06-11,248,East,Monitor,Office Supplies,3,351.41,1054.23
+1920,2022-06-12,398,South,Phone,Furniture,3,685.39,2056.17
+3455,2022-06-13,280,West,Monitor,Technology,4,414.06,1656.24
+1524,2022-06-14,283,East,Printer,Office Supplies,3,763.57,2290.71
+3875,2022-06-15,304,East,Desk,Technology,4,470.56,1882.24
+2529,2022-06-16,376,Central,Tablet,Office Supplies,4,429.91,1719.64
+3950,2022-06-17,347,Central,Chair,Technology,3,936.69,2810.07
+4896,2022-06-18,317,West,Printer,Technology,2,273.35,546.7
+1035,2022-06-19,285,East,Printer,Technology,3,146.83,440.49
+1684,2022-06-20,262,East,Tablet,Furniture,3,597.01,1791.03
+1019,2022-06-21,388,Central,Desk,Technology,3,970.24,2910.72
+3368,2022-06-22,303,East,Desk,Technology,2,396.5,793.0
+4847,2022-06-23,248,East,Phone,Technology,1,90.18,90.18
+3559,2022-06-24,270,East,Monitor,Office Supplies,1,359.13,359.13
+1399,2022-06-25,200,Central,Phone,Technology,4,520.75,2083.0
+3701,2022-06-26,340,West,Tablet,Office Supplies,4,187.07,748.28
+1971,2022-06-27,378,South,Phone,Technology,2,668.36,1336.72
+2906,2022-06-28,322,West,Tablet,Technology,5,997.82,4989.1
+3518,2022-06-29,383,South,Desk,Furniture,1,468.19,468.19
+2166,2022-06-30,261,East,Monitor,Office Supplies,4,374.09,1496.36
+2115,2022-07-01,231,West,Phone,Technology,1,418.68,418.68
+4425,2022-07-02,357,South,Printer,Office Supplies,2,141.69,283.38
+1833,2022-07-03,228,Central,Laptop,Office Supplies,2,886.78,1773.56
+2823,2022-07-04,248,Central,Chair,Furniture,5,432.38,2161.9
+3774,2022-07-05,372,West,Printer,Furniture,5,405.66,2028.3
+2982,2022-07-06,229,West,Desk,Furniture,2,669.9,1339.8
+1853,2022-07-07,343,East,Chair,Furniture,4,458.77,1835.08
+1050,2022-07-08,367,West,Laptop,Furniture,1,658.79,658.79
+4736,2022-07-09,218,East,Laptop,Furniture,3,89.6,268.8
+4769,2022-07-10,217,East,Monitor,Furniture,5,819.31,4096.55
+1574,2022-07-11,200,Central,Chair,Furniture,3,942.29,2826.87
+4261,2022-07-12,277,Central,Monitor,Technology,4,659.3,2637.2
+2148,2022-07-13,314,South,Printer,Office Supplies,5,955.93,4779.65
+3197,2022-07-14,374,Central,Tablet,Furniture,3,176.89,530.67
+3361,2022-07-15,393,Central,Tablet,Furniture,4,493.09,1972.36
+3617,2022-07-16,312,West,Tablet,Office Supplies,1,613.75,613.75
+4413,2022-07-17,313,Central,Chair,Technology,4,594.28,2377.12
+3352,2022-07-18,365,South,Tablet,Office Supplies,5,419.42,2097.1
+2715,2022-07-19,378,West,Printer,Office Supplies,2,357.94,715.88
+1681,2022-07-20,262,South,Monitor,Furniture,1,153.02,153.02
+1837,2022-07-21,331,Central,Chair,Office Supplies,3,409.99,1229.97
+4854,2022-07-22,328,South,Monitor,Office Supplies,5,187.78,938.9
+2077,2022-07-23,207,West,Chair,Furniture,2,742.33,1484.66
+4050,2022-07-24,356,East,Monitor,Furniture,4,232.57,930.28
+3491,2022-07-25,254,South,Laptop,Furniture,2,86.81,173.62
+3660,2022-07-26,302,South,Monitor,Furniture,5,565.8,2829.0
+4040,2022-07-27,330,West,Tablet,Office Supplies,5,607.37,3036.85
+3311,2022-07-28,231,West,Laptop,Office Supplies,2,875.76,1751.52
+4124,2022-07-29,209,South,Monitor,Technology,4,589.67,2358.68
+2595,2022-07-30,309,Central,Chair,Technology,2,365.12,730.24
+4051,2022-07-31,361,South,Chair,Office Supplies,5,808.92,4044.6
+4691,2022-08-01,323,West,Chair,Technology,5,554.07,2770.35
+1004,2022-08-02,286,East,Desk,Office Supplies,3,106.9,320.7
+2126,2022-08-03,254,East,Printer,Technology,3,578.88,1736.64
+2219,2022-08-04,231,Central,Chair,Furniture,1,910.78,910.78
+1773,2022-08-05,377,South,Laptop,Technology,5,414.42,2072.1
+1876,2022-08-06,334,East,Chair,Furniture,3,317.44,952.32
+1991,2022-08-07,292,South,Desk,Furniture,2,169.17,338.34
+3931,2022-08-08,207,West,Tablet,Furniture,4,176.9,707.6
+4421,2022-08-09,264,East,Laptop,Furniture,2,449.79,899.58
+1046,2022-08-10,256,Central,Desk,Technology,4,607.81,2431.24
+3914,2022-08-11,266,West,Tablet,Office Supplies,3,108.2,324.6
+3870,2022-08-12,386,Central,Phone,Furniture,1,941.38,941.38
+3983,2022-08-13,271,West,Phone,Technology,2,762.48,1524.96
+4891,2022-08-14,253,East,Laptop,Furniture,2,599.03,1198.06
+3703,2022-08-15,266,Central,Monitor,Technology,2,833.59,1667.18
+1268,2022-08-16,250,Central,Printer,Technology,4,107.78,431.12
+1369,2022-08-17,296,West,Printer,Technology,3,492.53,1477.59
+1635,2022-08-18,291,Central,Desk,Office Supplies,2,641.19,1282.38
+2129,2022-08-19,207,West,Tablet,Technology,2,833.79,1667.58
+2693,2022-08-20,361,West,Printer,Technology,1,789.97,789.97
+2682,2022-08-21,234,West,Tablet,Office Supplies,1,298.76,298.76
+1656,2022-08-22,295,West,Tablet,Office Supplies,3,942.65,2827.95
+1119,2022-08-23,287,East,Desk,Technology,3,150.62,451.86
+1830,2022-08-24,277,West,Desk,Office Supplies,5,878.88,4394.4
+2810,2022-08-25,231,South,Desk,Furniture,1,971.81,971.81
+4675,2022-08-26,319,Central,Printer,Furniture,5,201.84,1009.2
+2081,2022-08-27,245,South,Phone,Office Supplies,4,730.4,2921.6
+2974,2022-08-28,343,East,Desk,Office Supplies,5,69.08,345.4
+2369,2022-08-29,395,South,Printer,Technology,2,423.26,846.52
+1740,2022-08-30,364,Central,Desk,Office Supplies,5,530.79,2653.95
+4545,2022-08-31,381,South,Chair,Technology,3,593.23,1779.69
+1116,2022-09-01,341,East,Tablet,Furniture,4,937.86,3751.44
+2853,2022-09-02,254,West,Desk,Office Supplies,2,682.08,1364.16
+3838,2022-09-03,375,South,Laptop,Technology,5,496.84,2484.2
+2150,2022-09-04,206,East,Tablet,Technology,4,815.38,3261.52
+4464,2022-09-05,273,East,Tablet,Furniture,4,952.02,3808.08
+2931,2022-09-06,206,Central,Desk,Office Supplies,2,51.4,102.8
+2012,2022-09-07,360,Central,Phone,Furniture,5,983.05,4915.25
+2664,2022-09-08,350,South,Monitor,Technology,4,113.55,454.2
+2081,2022-09-09,284,West,Phone,Technology,4,819.96,3279.84
+1633,2022-09-10,346,East,Desk,Office Supplies,1,301.92,301.92
+1512,2022-09-11,311,South,Tablet,Technology,4,158.21,632.84
+4822,2022-09-12,324,East,Laptop,Office Supplies,1,456.66,456.66
+3849,2022-09-13,346,East,Tablet,Furniture,5,654.64,3273.2
+2119,2022-09-14,235,West,Phone,Office Supplies,5,399.52,1997.6
+4709,2022-09-15,228,West,Laptop,Office Supplies,5,82.93,414.65
+2141,2022-09-16,387,South,Printer,Technology,3,611.48,1834.44
+1559,2022-09-17,281,West,Chair,Technology,5,905.33,4526.65
+4672,2022-09-18,201,West,Tablet,Office Supplies,4,401.72,1606.88
+1487,2022-09-19,328,South,Desk,Technology,2,239.84,479.68
+4308,2022-09-20,246,West,Printer,Technology,1,459.3,459.3
+4956,2022-09-21,396,Central,Chair,Technology,3,76.91,230.73
+1896,2022-09-22,347,East,Desk,Office Supplies,5,825.87,4129.35
+4343,2022-09-23,210,East,Monitor,Technology,5,831.55,4157.75
+2212,2022-09-24,329,East,Desk,Office Supplies,2,600.36,1200.72
+1703,2022-09-25,394,East,Laptop,Technology,2,372.51,745.02
+2470,2022-09-26,318,South,Laptop,Furniture,3,805.79,2417.37
+1580,2022-09-27,339,East,Monitor,Technology,1,568.05,568.05
+3837,2022-09-28,219,East,Printer,Technology,5,831.15,4155.75
+3908,2022-09-29,204,East,Chair,Office Supplies,3,642.52,1927.56
+3294,2022-09-30,236,East,Desk,Office Supplies,4,790.87,3163.48
+4147,2022-10-01,365,Central,Laptop,Technology,4,610.61,2442.44
+1153,2022-10-02,336,East,Printer,Furniture,3,431.72,1295.16
+2679,2022-10-03,252,Central,Monitor,Technology,5,959.21,4796.05
+4506,2022-10-04,371,South,Phone,Technology,3,554.88,1664.64
+1996,2022-10-05,298,West,Tablet,Furniture,5,616.94,3084.7
+4157,2022-10-06,285,East,Phone,Office Supplies,2,243.87,487.74
+3744,2022-10-07,307,West,Phone,Technology,3,636.88,1910.64
+4356,2022-10-08,223,West,Laptop,Office Supplies,5,584.46,2922.3
+2243,2022-10-09,280,South,Monitor,Office Supplies,3,209.29,627.87
+2092,2022-10-10,357,West,Desk,Furniture,3,87.8,263.4
+4118,2022-10-11,319,Central,Phone,Furniture,5,616.23,3081.15
+2008,2022-10-12,258,West,Phone,Office Supplies,5,770.78,3853.9
+3141,2022-10-13,327,West,Chair,Technology,1,537.7,537.7
+2773,2022-10-14,313,West,Laptop,Office Supplies,3,249.97,749.91
+1957,2022-10-15,314,East,Laptop,Technology,4,676.53,2706.12
+4059,2022-10-16,213,East,Desk,Technology,3,107.7,323.1
+1452,2022-10-17,208,Central,Tablet,Furniture,3,458.58,1375.74
+2227,2022-10-18,239,Central,Printer,Technology,5,188.47,942.35
+3959,2022-10-19,393,East,Chair,Technology,3,208.93,626.79
+3265,2022-10-20,224,Central,Laptop,Office Supplies,3,226.23,678.69
+3521,2022-10-21,302,East,Chair,Furniture,4,405.11,1620.44
+3479,2022-10-22,221,South,Laptop,Technology,5,79.62,398.1
+3388,2022-10-23,203,West,Chair,Technology,3,415.86,1247.58
+1550,2022-10-24,353,West,Monitor,Furniture,2,526.36,1052.72
+2635,2022-10-25,385,Central,Phone,Office Supplies,1,498.8,498.8
+2312,2022-10-26,228,East,Laptop,Furniture,4,401.3,1605.2
+4325,2022-10-27,308,East,Chair,Furniture,3,843.97,2531.91
+2757,2022-10-28,297,Central,Printer,Technology,2,170.97,341.94
+1356,2022-10-29,236,East,Monitor,Technology,3,520.53,1561.59
+3070,2022-10-30,274,South,Monitor,Office Supplies,3,90.18,270.54
+2785,2022-10-31,269,West,Printer,Technology,5,99.02,495.1
+3569,2022-11-01,345,Central,Chair,Technology,5,586.65,2933.25
+2781,2022-11-02,327,Central,Desk,Furniture,5,579.04,2895.2
+4908,2022-11-03,284,East,Printer,Technology,2,881.69,1763.38
+4171,2022-11-04,241,Central,Chair,Office Supplies,3,571.14,1713.42
+3849,2022-11-05,299,South,Printer,Furniture,1,961.0,961.0
+4251,2022-11-06,240,East,Printer,Office Supplies,4,77.23,308.92
+4294,2022-11-07,365,East,Laptop,Furniture,5,125.07,625.35
+4977,2022-11-08,233,East,Chair,Technology,5,72.74,363.7
+3809,2022-11-09,216,East,Desk,Furniture,3,209.72,629.16
+4730,2022-11-10,364,South,Phone,Furniture,3,555.03,1665.09
+3489,2022-11-11,352,East,Laptop,Technology,2,656.21,1312.42
+2631,2022-11-12,321,Central,Printer,Technology,2,74.22,148.44
+3816,2022-11-13,275,South,Phone,Office Supplies,5,947.59,4737.95
+2015,2022-11-14,286,West,Tablet,Office Supplies,3,846.9,2540.7
+2348,2022-11-15,316,West,Phone,Technology,1,317.71,317.71
+1515,2022-11-16,305,Central,Printer,Technology,4,104.87,419.48
+4087,2022-11-17,285,Central,Printer,Technology,3,194.79,584.37
+3839,2022-11-18,226,South,Chair,Furniture,3,153.14,459.42
+1335,2022-11-19,256,West,Chair,Furniture,2,149.59,299.18
+2782,2022-11-20,230,West,Laptop,Furniture,4,533.0,2132.0
+3305,2022-11-21,333,West,Desk,Technology,5,268.47,1342.35
+1496,2022-11-22,367,West,Laptop,Office Supplies,3,377.4,1132.2
+1895,2022-11-23,297,West,Monitor,Technology,5,989.82,4949.1
+3207,2022-11-24,211,East,Printer,Furniture,3,693.78,2081.34
+4546,2022-11-25,252,Central,Phone,Furniture,5,950.51,4752.55
+1851,2022-11-26,398,East,Tablet,Technology,4,168.28,673.12
+2687,2022-11-27,337,West,Printer,Technology,2,400.68,801.36
+2931,2022-11-28,372,South,Printer,Furniture,4,568.09,2272.36
+3737,2022-11-29,344,South,Laptop,Furniture,1,104.46,104.46
+4746,2022-11-30,353,West,Tablet,Furniture,2,34.06,68.12
+3427,2022-12-01,389,West,Tablet,Technology,4,680.32,2721.28
+2568,2022-12-02,321,South,Tablet,Furniture,1,652.56,652.56
+1956,2022-12-03,245,East,Laptop,Furniture,3,428.47,1285.41
+3738,2022-12-04,263,East,Printer,Office Supplies,3,504.95,1514.85
+4498,2022-12-05,329,West,Laptop,Technology,5,432.98,2164.9
+2636,2022-12-06,253,East,Chair,Office Supplies,2,53.28,106.56
+2291,2022-12-07,306,South,Chair,Office Supplies,3,355.31,1065.93
+4906,2022-12-08,392,East,Laptop,Furniture,2,201.77,403.54
+4648,2022-12-09,250,West,Tablet,Technology,3,125.47,376.41
+2440,2022-12-10,380,South,Printer,Furniture,5,958.02,4790.1
+2191,2022-12-11,235,East,Laptop,Technology,4,611.38,2445.52
+4913,2022-12-12,314,Central,Laptop,Office Supplies,5,736.8,3684.0
+2066,2022-12-13,225,South,Laptop,Technology,1,335.9,335.9
+4627,2022-12-14,228,South,Monitor,Furniture,3,411.35,1234.05
+1284,2022-12-15,348,Central,Chair,Furniture,1,259.82,259.82
+3444,2022-12-16,210,Central,Phone,Furniture,1,124.06,124.06
+1011,2022-12-17,239,South,Tablet,Technology,2,203.66,407.32
+2630,2022-12-18,210,Central,Desk,Office Supplies,3,803.59,2410.77
+4373,2022-12-19,363,West,Phone,Office Supplies,1,687.22,687.22
+4969,2022-12-20,312,West,Tablet,Technology,4,560.52,2242.08
+4324,2022-12-21,386,West,Desk,Furniture,1,490.84,490.84
+3546,2022-12-22,238,South,Monitor,Office Supplies,4,924.76,3699.04
+1753,2022-12-23,253,Central,Laptop,Furniture,2,100.55,201.1
+3082,2022-12-24,297,Central,Monitor,Technology,1,302.18,302.18
+3774,2022-12-25,254,East,Monitor,Furniture,5,369.44,1847.2
+3896,2022-12-26,310,East,Phone,Office Supplies,2,788.95,1577.9
+1089,2022-12-27,351,Central,Printer,Office Supplies,4,992.74,3970.96
+1775,2022-12-28,349,Central,Phone,Furniture,2,263.45,526.9
+3652,2022-12-29,268,Central,Chair,Technology,1,878.08,878.08
+4993,2022-12-30,255,South,Desk,Furniture,3,835.7,2507.1
+4017,2022-12-31,232,Central,Laptop,Technology,3,247.92,743.76
+2625,2023-01-01,235,East,Phone,Furniture,4,417.35,1669.4
+4069,2023-01-02,347,South,Desk,Office Supplies,4,427.38,1709.52
+1417,2023-01-03,280,Central,Tablet,Technology,3,978.87,2936.61
+1114,2023-01-04,389,East,Desk,Technology,4,205.47,821.88
+1616,2023-01-05,308,South,Tablet,Technology,2,805.18,1610.36
+4974,2023-01-06,353,Central,Phone,Office Supplies,5,354.17,1770.85
+4267,2023-01-07,393,Central,Chair,Furniture,5,738.94,3694.7
+1825,2023-01-08,272,Central,Phone,Office Supplies,2,437.41,874.82
+4572,2023-01-09,239,South,Tablet,Technology,5,591.01,2955.05
+2649,2023-01-10,216,East,Desk,Furniture,1,837.63,837.63
+2516,2023-01-11,328,East,Desk,Office Supplies,2,810.04,1620.08
+4146,2023-01-12,260,West,Tablet,Technology,4,870.43,3481.72
+1412,2023-01-13,370,Central,Monitor,Technology,2,87.83,175.66
+4447,2023-01-14,303,West,Chair,Office Supplies,3,701.29,2103.87
+4491,2023-01-15,241,West,Printer,Office Supplies,4,165.79,663.16
+1728,2023-01-16,224,East,Laptop,Office Supplies,3,433.34,1300.02
+4348,2023-01-17,238,South,Desk,Technology,4,562.13,2248.52
+4068,2023-01-18,234,South,Laptop,Office Supplies,5,420.66,2103.3
+3808,2023-01-19,330,East,Printer,Technology,2,534.02,1068.04
+1675,2023-01-20,307,South,Phone,Office Supplies,1,996.63,996.63
+4465,2023-01-21,371,West,Laptop,Technology,4,161.16,644.64
+2892,2023-01-22,378,Central,Printer,Technology,4,685.19,2740.76
+3504,2023-01-23,301,East,Tablet,Furniture,3,414.12,1242.36
+3967,2023-01-24,297,Central,Monitor,Office Supplies,5,159.02,795.1
+3239,2023-01-25,211,South,Desk,Office Supplies,3,183.97,551.91
+3786,2023-01-26,218,Central,Printer,Technology,3,950.79,2852.37
+4760,2023-01-27,300,South,Laptop,Technology,5,883.21,4416.05
+2122,2023-01-28,243,South,Desk,Technology,1,909.83,909.83
+2571,2023-01-29,386,West,Monitor,Furniture,3,991.79,2975.37
+1977,2023-01-30,248,South,Tablet,Furniture,3,232.07,696.21
+2008,2023-01-31,388,West,Phone,Technology,4,374.78,1499.12
+3143,2023-02-01,216,West,Desk,Office Supplies,5,679.14,3395.7
+2687,2023-02-02,273,West,Phone,Office Supplies,2,499.29,998.58
+3710,2023-02-03,256,East,Printer,Furniture,1,435.84,435.84
+4261,2023-02-04,254,East,Monitor,Furniture,1,377.08,377.08
+4807,2023-02-05,246,South,Laptop,Technology,5,605.97,3029.85
+1036,2023-02-06,211,West,Monitor,Office Supplies,4,588.33,2353.32
+4851,2023-02-07,261,East,Monitor,Technology,4,186.61,746.44
+4440,2023-02-08,279,West,Chair,Furniture,5,487.59,2437.95
+4766,2023-02-09,282,Central,Monitor,Office Supplies,4,566.87,2267.48
+2548,2023-02-10,207,Central,Monitor,Office Supplies,1,583.18,583.18
+3326,2023-02-11,348,Central,Desk,Furniture,1,233.8,233.8
+3264,2023-02-12,280,South,Laptop,Technology,2,750.0,1500.0
+3914,2023-02-13,317,West,Desk,Technology,5,54.44,272.2
+1872,2023-02-14,397,Central,Desk,Office Supplies,3,374.19,1122.57
+2821,2023-02-15,399,East,Printer,Furniture,3,786.81,2360.43
+2296,2023-02-16,224,Central,Desk,Office Supplies,2,576.98,1153.96
+4952,2023-02-17,288,Central,Chair,Furniture,2,283.33,566.66
+3109,2023-02-18,211,Central,Chair,Technology,4,704.1,2816.4
+1595,2023-02-19,342,South,Phone,Furniture,2,580.37,1160.74
+2903,2023-02-20,258,East,Printer,Technology,2,802.36,1604.72
+1728,2023-02-21,353,West,Phone,Furniture,3,742.97,2228.91
+2365,2023-02-22,308,East,Phone,Office Supplies,4,621.8,2487.2
+1396,2023-02-23,225,West,Tablet,Technology,2,503.53,1007.06
+1698,2023-02-24,246,South,Laptop,Office Supplies,2,159.19,318.38
+4090,2023-02-25,231,South,Laptop,Office Supplies,4,283.49,1133.96
+3224,2023-02-26,209,South,Desk,Technology,5,436.53,2182.65
+2635,2023-02-27,215,South,Desk,Technology,4,611.32,2445.28
+1395,2023-02-28,398,West,Tablet,Office Supplies,3,528.3,1584.9
+3492,2023-03-01,344,Central,Desk,Office Supplies,5,309.54,1547.7
+4304,2023-03-02,350,West,Laptop,Office Supplies,1,36.27,36.27
+4986,2023-03-03,225,East,Phone,Office Supplies,4,511.35,2045.4
+1075,2023-03-04,285,South,Monitor,Technology,3,307.06,921.18
+1264,2023-03-05,334,South,Chair,Technology,5,742.57,3712.85
+3502,2023-03-06,213,East,Monitor,Office Supplies,4,53.23,212.92
+2819,2023-03-07,278,West,Monitor,Furniture,2,597.28,1194.56
+1717,2023-03-08,316,Central,Laptop,Furniture,4,943.23,3772.92
+3782,2023-03-09,206,Central,Monitor,Technology,1,199.18,199.18
+4455,2023-03-10,336,East,Tablet,Office Supplies,4,487.5,1950.0
+4635,2023-03-11,314,Central,Printer,Office Supplies,5,118.68,593.4
+1850,2023-03-12,375,West,Desk,Technology,5,636.91,3184.55
+4577,2023-03-13,271,West,Printer,Furniture,4,564.02,2256.08
+2390,2023-03-14,258,East,Phone,Furniture,5,425.14,2125.7
+1143,2023-03-15,281,West,Chair,Furniture,2,535.74,1071.48
+1884,2023-03-16,315,South,Desk,Technology,4,899.68,3598.72
+4140,2023-03-17,366,East,Monitor,Furniture,2,220.41,440.82
+4170,2023-03-18,345,West,Chair,Technology,2,51.89,103.78
+1395,2023-03-19,386,East,Desk,Technology,3,865.81,2597.43
+4096,2023-03-20,302,Central,Tablet,Office Supplies,4,589.8,2359.2
+3995,2023-03-21,216,West,Tablet,Furniture,5,893.94,4469.7
+3938,2023-03-22,213,South,Tablet,Technology,2,609.04,1218.08
+2492,2023-03-23,358,West,Tablet,Furniture,3,815.86,2447.58
+4555,2023-03-24,351,East,Monitor,Furniture,4,446.78,1787.12
+4636,2023-03-25,307,East,Printer,Office Supplies,4,757.36,3029.44
+4222,2023-03-26,387,West,Desk,Furniture,1,915.65,915.65
+2167,2023-03-27,244,South,Monitor,Office Supplies,1,584.96,584.96
+3616,2023-03-28,297,South,Tablet,Technology,2,205.36,410.72
+2062,2023-03-29,330,South,Phone,Furniture,1,290.73,290.73
+3156,2023-03-30,236,East,Printer,Technology,2,222.69,445.38
+4764,2023-03-31,370,West,Phone,Furniture,5,269.45,1347.25
+2065,2023-04-01,367,Central,Chair,Technology,2,327.22,654.44
+2209,2023-04-02,382,East,Phone,Furniture,1,568.48,568.48
+3982,2023-04-03,307,South,Chair,Furniture,5,600.35,3001.75
+3445,2023-04-04,238,West,Chair,Furniture,1,443.7,443.7
+4294,2023-04-05,214,South,Tablet,Furniture,2,626.96,1253.92
+1633,2023-04-06,319,Central,Chair,Furniture,3,109.13,327.39
+2156,2023-04-07,203,South,Laptop,Furniture,4,115.15,460.6
+4234,2023-04-08,292,South,Desk,Furniture,1,196.67,196.67
+2238,2023-04-09,352,Central,Desk,Furniture,2,532.54,1065.08
+1732,2023-04-10,340,West,Tablet,Furniture,5,237.57,1187.85
+1234,2023-04-11,360,East,Laptop,Technology,1,304.79,304.79
+4914,2023-04-12,215,West,Phone,Office Supplies,1,418.3,418.3
+3705,2023-04-13,369,Central,Monitor,Furniture,4,817.51,3270.04
+1750,2023-04-14,307,South,Phone,Office Supplies,2,43.45,86.9
+3635,2023-04-15,325,West,Monitor,Furniture,3,659.9,1979.7
+4080,2023-04-16,393,East,Chair,Furniture,5,678.81,3394.05
+4145,2023-04-17,254,Central,Printer,Technology,2,804.7,1609.4
+1953,2023-04-18,369,West,Monitor,Technology,5,934.77,4673.85
+3539,2023-04-19,233,East,Printer,Office Supplies,1,49.53,49.53
+3960,2023-04-20,357,Central,Desk,Technology,4,179.17,716.68
+4324,2023-04-21,212,East,Printer,Technology,4,889.59,3558.36
+4301,2023-04-22,340,Central,Desk,Office Supplies,3,474.76,1424.28
+2542,2023-04-23,217,South,Laptop,Technology,4,577.65,2310.6
+2197,2023-04-24,359,West,Laptop,Furniture,1,673.14,673.14
+2676,2023-04-25,295,East,Tablet,Office Supplies,3,688.69,2066.07
+2191,2023-04-26,322,Central,Tablet,Office Supplies,2,933.79,1867.58
+3217,2023-04-27,238,East,Chair,Furniture,4,997.04,3988.16
+2416,2023-04-28,245,East,Monitor,Technology,3,728.55,2185.65
+3993,2023-04-29,228,West,Chair,Office Supplies,1,308.6,308.6
+3842,2023-04-30,389,South,Desk,Office Supplies,5,883.36,4416.8
+3681,2023-05-01,261,East,Chair,Furniture,5,77.74,388.7
+2217,2023-05-02,384,Central,Printer,Furniture,1,254.15,254.15
+2540,2023-05-03,215,Central,Desk,Technology,1,900.46,900.46
+3076,2023-05-04,383,South,Tablet,Office Supplies,5,278.51,1392.55
+4236,2023-05-05,320,Central,Laptop,Technology,3,244.03,732.09
+2445,2023-05-06,209,South,Tablet,Technology,5,163.98,819.9
+3386,2023-05-07,357,Central,Monitor,Furniture,1,863.34,863.34
+4719,2023-05-08,352,West,Desk,Office Supplies,4,515.06,2060.24
+2519,2023-05-09,302,East,Desk,Office Supplies,2,684.65,1369.3
+2388,2023-05-10,283,West,Printer,Office Supplies,4,261.89,1047.56
+2856,2023-05-11,332,East,Monitor,Furniture,4,765.3,3061.2
+2365,2023-05-12,264,East,Laptop,Furniture,1,767.21,767.21
+1499,2023-05-13,376,East,Phone,Furniture,5,333.22,1666.1
+2680,2023-05-14,202,West,Desk,Furniture,3,428.36,1285.08
+1510,2023-05-15,372,East,Desk,Furniture,4,233.4,933.6
+4398,2023-05-16,341,West,Printer,Office Supplies,5,977.26,4886.3
+1216,2023-05-17,319,South,Chair,Technology,3,656.23,1968.69
+2324,2023-05-18,357,Central,Laptop,Office Supplies,4,936.51,3746.04
+2155,2023-05-19,267,Central,Tablet,Technology,3,324.28,972.84
+2827,2023-05-20,345,East,Monitor,Furniture,5,788.43,3942.15
+4141,2023-05-21,389,West,Desk,Technology,2,772.88,1545.76
+4323,2023-05-22,236,Central,Desk,Office Supplies,5,700.91,3504.55
+4486,2023-05-23,352,West,Tablet,Office Supplies,1,966.67,966.67
+2810,2023-05-24,375,West,Laptop,Technology,3,411.75,1235.25
+3492,2023-05-25,392,East,Chair,Furniture,2,156.8,313.6
+3923,2023-05-26,380,Central,Desk,Furniture,3,681.56,2044.68
+2205,2023-05-27,272,East,Laptop,Office Supplies,3,737.43,2212.29
+3214,2023-05-28,342,East,Tablet,Technology,4,587.81,2351.24
+1090,2023-05-29,248,Central,Printer,Furniture,1,230.61,230.61
+1713,2023-05-30,320,Central,Chair,Furniture,3,519.32,1557.96
+2881,2023-05-31,287,South,Monitor,Office Supplies,5,332.82,1664.1
+4602,2023-06-01,395,South,Desk,Furniture,5,444.64,2223.2
+1038,2023-06-02,339,West,Laptop,Technology,4,655.86,2623.44
+4197,2023-06-03,386,Central,Printer,Office Supplies,1,752.86,752.86
+4522,2023-06-04,236,South,Monitor,Office Supplies,1,255.26,255.26
+1172,2023-06-05,260,West,Phone,Technology,5,423.17,2115.85
+1652,2023-06-06,370,West,Laptop,Office Supplies,2,291.09,582.18
+1753,2023-06-07,323,West,Laptop,Furniture,4,222.67,890.68
+2243,2023-06-08,397,South,Monitor,Furniture,4,789.89,3159.56
+4709,2023-06-09,238,Central,Printer,Technology,5,911.98,4559.9
+2081,2023-06-10,383,East,Phone,Furniture,5,389.13,1945.65
+2683,2023-06-11,262,West,Tablet,Technology,2,758.74,1517.48
+3523,2023-06-12,245,South,Printer,Technology,2,900.09,1800.18
+1455,2023-06-13,287,South,Chair,Furniture,1,850.74,850.74
+1828,2023-06-14,210,East,Desk,Technology,4,207.33,829.32
+1894,2023-06-15,261,East,Monitor,Furniture,4,957.6,3830.4
+2384,2023-06-16,276,South,Tablet,Office Supplies,5,395.38,1976.9
+2958,2023-06-17,352,Central,Phone,Office Supplies,1,359.06,359.06
+4072,2023-06-18,398,East,Monitor,Technology,4,90.56,362.24
+3434,2023-06-19,251,South,Monitor,Furniture,1,501.59,501.59
+2996,2023-06-20,203,East,Printer,Furniture,1,135.74,135.74
+3395,2023-06-21,258,Central,Desk,Office Supplies,5,271.08,1355.4
+1189,2023-06-22,271,West,Chair,Office Supplies,1,337.43,337.43
+1504,2023-06-23,347,East,Laptop,Furniture,2,814.56,1629.12
+2214,2023-06-24,292,Central,Laptop,Technology,2,879.22,1758.44
+2531,2023-06-25,262,South,Monitor,Office Supplies,3,323.39,970.17
+4440,2023-06-26,253,East,Desk,Technology,5,862.94,4314.7
+4480,2023-06-27,316,East,Phone,Technology,3,861.51,2584.53
+1823,2023-06-28,309,South,Phone,Office Supplies,2,771.71,1543.42
+1928,2023-06-29,273,West,Tablet,Technology,3,172.29,516.87
+1933,2023-06-30,306,South,Printer,Technology,5,699.61,3498.05
+2140,2023-07-01,256,East,Desk,Furniture,5,946.67,4733.35
+1133,2023-07-02,368,South,Desk,Technology,1,692.06,692.06
+3105,2023-07-03,202,Central,Printer,Furniture,4,351.67,1406.68
+4627,2023-07-04,319,South,Phone,Office Supplies,1,515.56,515.56
+1684,2023-07-05,205,East,Phone,Office Supplies,5,656.35,3281.75
+3719,2023-07-06,204,South,Phone,Furniture,2,525.25,1050.5
+3220,2023-07-07,204,West,Monitor,Office Supplies,2,146.35,292.7
+2852,2023-07-08,253,South,Desk,Technology,1,332.7,332.7
+1814,2023-07-09,246,West,Laptop,Technology,5,808.32,4041.6
+2172,2023-07-10,376,Central,Printer,Technology,2,865.58,1731.16
+1079,2023-07-11,208,West,Phone,Office Supplies,5,163.18,815.9
+3933,2023-07-12,298,South,Tablet,Technology,2,953.82,1907.64
+4284,2023-07-13,219,East,Phone,Office Supplies,5,348.96,1744.8
+1202,2023-07-14,321,West,Phone,Technology,3,672.44,2017.32
+3811,2023-07-15,260,Central,Chair,Furniture,5,759.27,3796.35
+2252,2023-07-16,322,West,Monitor,Office Supplies,5,817.59,4087.95
+2699,2023-07-17,362,West,Printer,Office Supplies,1,947.38,947.38
+2250,2023-07-18,377,West,Chair,Technology,3,333.53,1000.59
+2682,2023-07-19,281,Central,Chair,Office Supplies,4,862.75,3451.0
+2555,2023-07-20,261,South,Tablet,Office Supplies,1,157.74,157.74
+4512,2023-07-21,344,West,Desk,Furniture,4,713.89,2855.56
+4473,2023-07-22,202,West,Tablet,Furniture,2,749.72,1499.44
+3094,2023-07-23,359,East,Desk,Technology,4,687.39,2749.56
+2256,2023-07-24,212,Central,Desk,Furniture,5,274.75,1373.75
+4376,2023-07-25,319,West,Printer,Technology,4,876.85,3507.4
+2549,2023-07-26,324,Central,Phone,Technology,1,193.79,193.79
+2166,2023-07-27,288,West,Printer,Technology,1,82.03,82.03
+4486,2023-07-28,272,South,Monitor,Office Supplies,4,725.94,2903.76
+4584,2023-07-29,267,South,Desk,Furniture,1,491.21,491.21
+2396,2023-07-30,341,West,Chair,Technology,1,853.63,853.63
+4637,2023-07-31,300,South,Phone,Furniture,4,401.9,1607.6
+4957,2023-08-01,297,West,Laptop,Technology,3,193.23,579.69
+4330,2023-08-02,210,South,Monitor,Furniture,3,841.35,2524.05
+3703,2023-08-03,304,East,Printer,Furniture,2,562.44,1124.88
+1470,2023-08-04,383,East,Tablet,Technology,1,213.52,213.52
+4018,2023-08-05,266,East,Monitor,Office Supplies,4,728.77,2915.08
+2035,2023-08-06,322,Central,Monitor,Furniture,1,525.78,525.78
+2353,2023-08-07,228,Central,Phone,Office Supplies,5,616.18,3080.9
+3783,2023-08-08,336,East,Monitor,Office Supplies,1,477.07,477.07
+3831,2023-08-09,394,Central,Monitor,Technology,1,833.85,833.85
+1967,2023-08-10,352,South,Laptop,Technology,3,834.68,2504.04
+1357,2023-08-11,275,West,Tablet,Technology,4,718.11,2872.44
+4019,2023-08-12,369,West,Tablet,Furniture,1,132.24,132.24
+4479,2023-08-13,208,West,Tablet,Technology,3,843.69,2531.07
+1667,2023-08-14,239,East,Desk,Technology,2,680.88,1361.76
+1372,2023-08-15,224,Central,Chair,Furniture,3,706.11,2118.33
+2031,2023-08-16,204,South,Tablet,Furniture,3,382.09,1146.27
+2145,2023-08-17,338,South,Monitor,Technology,3,882.9,2648.7
+2371,2023-08-18,386,East,Monitor,Technology,1,733.61,733.61
+3723,2023-08-19,323,South,Tablet,Technology,1,139.21,139.21
+1089,2023-08-20,237,South,Phone,Technology,2,425.54,851.08
+4719,2023-08-21,271,South,Tablet,Office Supplies,5,889.79,4448.95
+3745,2023-08-22,332,South,Monitor,Office Supplies,5,75.78,378.9
+4387,2023-08-23,375,Central,Desk,Technology,5,962.57,4812.85
+4249,2023-08-24,289,South,Printer,Office Supplies,2,688.79,1377.58
+1539,2023-08-25,345,West,Printer,Furniture,5,642.43,3212.15
+3779,2023-08-26,397,East,Tablet,Office Supplies,5,292.44,1462.2
+1868,2023-08-27,236,Central,Laptop,Office Supplies,3,271.33,813.99
+1040,2023-08-28,259,South,Tablet,Technology,1,943.8,943.8
+1739,2023-08-29,375,Central,Phone,Office Supplies,1,319.32,319.32
+4775,2023-08-30,227,South,Tablet,Office Supplies,3,782.24,2346.72
+2946,2023-08-31,396,West,Printer,Office Supplies,3,411.33,1233.99
+3549,2023-09-01,280,East,Monitor,Office Supplies,3,165.08,495.24
+4006,2023-09-02,313,South,Tablet,Furniture,1,40.39,40.39
+4216,2023-09-03,239,South,Monitor,Technology,5,557.93,2789.65
+2224,2023-09-04,244,South,Monitor,Technology,3,976.51,2929.53
+1928,2023-09-05,261,South,Laptop,Furniture,2,388.06,776.12
+3036,2023-09-06,292,East,Monitor,Office Supplies,3,376.48,1129.44
+4795,2023-09-07,314,East,Printer,Furniture,4,363.77,1455.08
+3508,2023-09-08,385,West,Desk,Office Supplies,3,534.93,1604.79
+3779,2023-09-09,266,East,Desk,Furniture,1,457.44,457.44
+3799,2023-09-10,255,South,Chair,Technology,3,883.52,2650.56
+1924,2023-09-11,239,West,Phone,Technology,4,520.36,2081.44
+3956,2023-09-12,297,West,Tablet,Technology,2,522.53,1045.06
+2581,2023-09-13,239,West,Phone,Office Supplies,5,164.22,821.1
+4618,2023-09-14,290,South,Printer,Office Supplies,3,983.26,2949.78
+4324,2023-09-15,232,Central,Monitor,Furniture,4,272.47,1089.88
+1389,2023-09-16,205,South,Desk,Furniture,4,101.16,404.64
+2617,2023-09-17,346,East,Phone,Technology,2,673.25,1346.5
+3930,2023-09-18,279,East,Printer,Office Supplies,1,607.51,607.51
+1255,2023-09-19,367,South,Desk,Furniture,3,432.69,1298.07
+1708,2023-09-20,291,South,Monitor,Office Supplies,4,439.53,1758.12
+2838,2023-09-21,296,West,Phone,Office Supplies,2,791.51,1583.02
+2944,2023-09-22,258,South,Desk,Technology,5,219.84,1099.2
+3497,2023-09-23,258,West,Tablet,Technology,4,825.65,3302.6
+1009,2023-09-24,247,East,Tablet,Office Supplies,2,659.28,1318.56
+3871,2023-09-25,368,West,Chair,Office Supplies,1,436.4,436.4
+1797,2023-09-26,212,South,Chair,Office Supplies,1,474.29,474.29
+4313,2023-09-27,306,East,Desk,Office Supplies,4,278.95,1115.8
