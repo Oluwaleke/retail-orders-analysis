@@ -1,10 +1,10 @@
-# ?? Retail Orders SQL Analytics (Pandas Edition)
+# 🛒 Retail Orders SQL Analytics (Pandas Edition)
 
-This project explores customer order data to uncover sales trends, regional performance, and product category dynamics using SQL-style analysis techniques with Python�s Pandas library.
+This project explores customer order data to uncover sales trends, regional performance, and product category dynamics using SQL-style analysis techniques with Python’s Pandas library.
 
 ---
 
-## ?? Project Objectives
+## 📊 Project Objectives
 
 - Analyze sales trends across time, regions, products, and categories
 - Simulate SQL queries using Pandas (`groupby`, `agg`, `query`)
@@ -13,16 +13,16 @@ This project explores customer order data to uncover sales trends, regional perf
 
 ---
 
-## ?? Dataset Overview
+## 📁 Dataset Overview
 
 - **Source:** Simulated retail order data
 - **Rows:** 1,000
 - **Columns:** `order_id`, `order_date`, `customer_id`, `region`, `product`, `category`, `quantity`, `unit_price`, `total_price`
-- **Time Range:** 2021 � 2023
+- **Time Range:** 2021 – 2023
 
 ---
 
-## ?? Tools Used
+## 🧰 Tools Used
 
 - Python
 - Pandas
@@ -31,7 +31,7 @@ This project explores customer order data to uncover sales trends, regional perf
 
 ---
 
-## ?? Key Business Questions Answered
+## 🔍 Key Business Questions Answered
 
 - What is the total revenue by region?
 - Which are the top 5 best-selling products by revenue?
@@ -41,17 +41,17 @@ This project explores customer order data to uncover sales trends, regional perf
 
 ---
 
-## ?? Key Insights
+## 📈 Key Insights
 
 - **Sales trend upward** over time, with visible monthly fluctuations.
-- Revenue **peaks in Q3**, especially **August�September 2022** � ideal for seasonal campaigns.
+- Revenue **peaks in Q3**, especially **August–September 2022** — ideal for seasonal campaigns.
 - The **West region** leads in total revenue.
 - **Technology products** dominate top sales by revenue.
 - **Furniture** has a lower average order value and may need promotional support.
 
 ---
 
-## ?? Business Recommendations
+## 💡 Business Recommendations
 
 - Run promotional campaigns in **Q3** to capitalize on natural sales peaks.
 - Expand **inventory and marketing in the West region**.
@@ -61,15 +61,15 @@ This project explores customer order data to uncover sales trends, regional perf
 
 ---
 
-## ? Files Included
+## ✅ Files Included
 
-- `retail_orders_large.csv` � Dataset
-- `retail_orders_analysis.ipynb` � Jupyter Notebook with SQL-style analysis
-- `README.md` � Project summary and findings
+- `retail_orders_large.csv` — Dataset
+- `retail_orders_analysis.ipynb` — Jupyter Notebook with SQL-style analysis
+- `README.md` — Project summary and findings
 
 ---
 
-## ?? Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 - SQL-like querying with Pandas
 - Time-based feature engineering
